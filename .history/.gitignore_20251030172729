@@ -5,3 +5,5 @@ series_png
 results
 npy_path
 experiments/wandb
+outputs
+rsna2025_1st_place-main

@@ -1,0 +1,6 @@
+All parameters is in cuda
+Traceback (most recent call last):
+  File "C:\Users\emanon\Library\Kaggle\rsna-intracranial-aneurysm-detection_ver2\experiments\train_swin_s_512_32_CV.py", line 421, in <module>
+    series_list = os.listdir(f'../series_npy/{CFG.image_size}')
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] 指定されたパスが見つかりません。: '../series_npy/512'

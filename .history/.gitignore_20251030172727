@@ -4,4 +4,7 @@ series_npy
 series_png
 results
 npy_path
-experiments
+experiments/wandb
+outputs
+rsna2025_1st_place-main
+

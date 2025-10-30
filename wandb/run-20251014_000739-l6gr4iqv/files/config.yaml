@@ -1,0 +1,62 @@
+_wandb:
+    value:
+        cli_version: 0.21.1
+        code_path: code/experiments/train_swin_s_512_32_CV.py
+        e:
+            7nwq0ibs38wriugfj8exz2erxlb64bbs:
+                codePath: experiments\train_swin_s_512_32_CV.py
+                codePathLocal: experiments\train_swin_s_512_32_CV.py
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "4095690813440"
+                        used: "3204457750528"
+                email: moonlight.burn.my.dread@gmail.com
+                executable: C:\Users\emanon\anaconda3\envs\Kaggle\python.exe
+                git:
+                    commit: 813838bb89d4cf22d54a9b1a23c3240c67fda5e7
+                    remote: https://github.com/Ataracsia/RSNA-Intracranial-Aneurysm-Detection.git
+                gpu: NVIDIA GeForce RTX 4090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 16384
+                      memoryTotal: "25757220864"
+                      name: NVIDIA GeForce RTX 4090
+                      uuid: GPU-cc6fe278-4543-35b8-70c5-2abcfe1fbba5
+                host: Shell
+                memory:
+                    total: "34282377216"
+                os: Windows-10-10.0.26100-SP0
+                program: C:\Users\emanon\Library\Kaggle\rsna-intracranial-aneurysm-detection_ver2\experiments\train_swin_s_512_32_CV.py
+                python: CPython 3.11.13
+                root: C:\Users\emanon\Library\Kaggle\rsna-intracranial-aneurysm-detection_ver2
+                startedAt: "2025-10-13T15:07:39.887449Z"
+                writerId: 7nwq0ibs38wriugfj8exz2erxlb64bbs
+        m: []
+        python_version: 3.11.13
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 49
+                - 53
+                - 63
+                - 80
+            "2":
+                - 1
+                - 5
+                - 41
+                - 49
+                - 53
+                - 63
+                - 80
+            "4": 3.11.13
+            "5": 0.21.1
+            "8":
+                - 3
+            "12": 0.21.1
+            "13": windows-amd64
